@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="47" type="long" />
+    <option name="/Default/Environment/StickyLines/Enabled/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Environment/UserInterface/HierarchyView/ViewStyle/@EntryValue" value="SuperTypes" type="string" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppGeneralOptions" type="string" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="steam-achievement-tracker" targetName="bufferstream" />
+      <config projectName="steam-achievement-tracker" targetName="liblzma" />
+      <config projectName="steam-achievement-tracker" targetName="libzstd_shared" />
+      <config projectName="steam-achievement-tracker" targetName="zlib-ng" />
+      <config projectName="steam-achievement-tracker" targetName="sourcepp_compression" />
+      <config projectName="steam-achievement-tracker" targetName="xz" />
+      <config projectName="steam-achievement-tracker" targetName="sourcepp" />
+      <config projectName="steam-achievement-tracker" targetName="libgnu" />
+      <config projectName="steam-achievement-tracker" targetName="steam-achievement-tracker" />
+      <config projectName="steam-achievement-tracker" targetName="minizip-ng" />
+      <config projectName="steam-achievement-tracker" targetName="sourcepp_crypto" />
+      <config projectName="steam-achievement-tracker" targetName="lzmainfo" />
+      <config projectName="steam-achievement-tracker" targetName="xzdec" />
+      <config projectName="steam-achievement-tracker" targetName="clean-all" />
+      <config projectName="steam-achievement-tracker" targetName="spdlog" />
+      <config projectName="steam-achievement-tracker" targetName="uninstall" />
+      <config projectName="steam-achievement-tracker" targetName="libzstd_static" />
+      <config projectName="steam-achievement-tracker" targetName="sourcepp_kvpp" />
+      <config projectName="steam-achievement-tracker" targetName="lzmadec" />
+      <config projectName="steam-achievement-tracker" targetName="yaml-cpp-read" />
+      <config projectName="steam-achievement-tracker" targetName="sourcepp_half" />
+      <config projectName="steam-achievement-tracker" targetName="sourcepp_parser" />
+      <config projectName="steam-achievement-tracker" targetName="yaml-cpp" />
+      <config projectName="steam-achievement-tracker" targetName="yaml-cpp-sandbox" />
+      <config projectName="steam-achievement-tracker" targetName="bzip2" />
+      <config projectName="steam-achievement-tracker" targetName="cryptopp" />
+      <config projectName="steam-achievement-tracker" targetName="yaml-cpp-parse" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="release" ENABLED="true" FROM_PRESET="true" GENERATION_DIR="$PROJECT_DIR$/build/release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="803f76ff-10f6-4261-b09d-181d4327f9f5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="clangdShowErrors" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:release" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LunaticWasTaken&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LunaticWasTaken/steam-achievement-tracker.git&quot;,
+    &quot;accountId&quot;: &quot;67117c2b-a896-4d03-9a7c-f1be87cfaea9&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/include/achievement.hpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/include/file_configuration.hpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pch.hpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/achievement.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Development/steam-achievement-tracker/src/achievement_manager.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Development/steam-achievement-tracker/src/achievement_manager.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Development/steam-achievement-tracker/src/achievement_manager.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="2.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="36K9mwwcLtJokPsg2tIVwVboFAp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.steam-achievement-tracker.executor": "Run",
+    "CMake Application.steam_achievement_tracker.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.advertisement.text.overridden": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Development/steam-achievement-tracker/third-party-licenses",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "C++",
+      "CSS",
+      "yaml",
+      "TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Development\steam-achievement-tracker\third-party-licenses" />
+      <recent name="C:\Development\steam-achievement-tracker\src" />
+      <recent name="C:\Development\steam-achievement-tracker\include" />
+      <recent name="C:\Development\steam-achievement-tracker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Development\steam-achievement-tracker\include" />
+      <recent name="C:\Development\steam-achievement-tracker" />
+      <recent name="C:\Development\steam-achievement-tracker\src" />
+      <recent name="C:\Development\steam-achievement-tracker\include\util" />
+      <recent name="C:\Development\steam-achievement-tracker\include\ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.steam-achievement-tracker">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="steam-achievement-tracker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bufferstream" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="bufferstream" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bzip2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="bzip2" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-all" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="clean-all" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cryptopp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="cryptopp" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libgnu" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="libgnu" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="liblzma" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="liblzma" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libzstd_shared" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="libzstd_shared" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libzstd_static" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="libzstd_static" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lzmadec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="lzmadec" CONFIG_NAME="release" RUN_TARGET_PROJECT_NAME="steam-achievement-tracker" RUN_TARGET_NAME="lzmadec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lzmainfo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="lzmainfo" CONFIG_NAME="release" RUN_TARGET_PROJECT_NAME="steam-achievement-tracker" RUN_TARGET_NAME="lzmainfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minizip-ng" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="minizip-ng" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sourcepp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="sourcepp" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sourcepp_compression" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="sourcepp_compression" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sourcepp_crypto" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="sourcepp_crypto" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sourcepp_half" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="sourcepp_half" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sourcepp_kvpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="sourcepp_kvpp" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sourcepp_parser" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="sourcepp_parser" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spdlog" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="spdlog" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="steam-achievement-tracker" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="steam-achievement-tracker" CONFIG_NAME="release" RUN_TARGET_PROJECT_NAME="steam-achievement-tracker" RUN_TARGET_NAME="steam-achievement-tracker">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="steam_achievement_tracker" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="steam_achievement_tracker" CONFIG_NAME="release" RUN_TARGET_PROJECT_NAME="steam-achievement-tracker" RUN_TARGET_NAME="steam_achievement_tracker">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="uninstall" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xz" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="xz" CONFIG_NAME="release" RUN_TARGET_PROJECT_NAME="steam-achievement-tracker" RUN_TARGET_NAME="xz">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xzdec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="xzdec" CONFIG_NAME="release" RUN_TARGET_PROJECT_NAME="steam-achievement-tracker" RUN_TARGET_NAME="xzdec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yaml-cpp-parse" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="yaml-cpp-parse" CONFIG_NAME="release" RUN_TARGET_PROJECT_NAME="steam-achievement-tracker" RUN_TARGET_NAME="yaml-cpp-parse">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yaml-cpp-read" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="yaml-cpp-read" CONFIG_NAME="release" RUN_TARGET_PROJECT_NAME="steam-achievement-tracker" RUN_TARGET_NAME="yaml-cpp-read">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yaml-cpp-sandbox" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="yaml-cpp-sandbox" CONFIG_NAME="release" RUN_TARGET_PROJECT_NAME="steam-achievement-tracker" RUN_TARGET_NAME="yaml-cpp-sandbox">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yaml-cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="yaml-cpp" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zlib-ng" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="steam-achievement-tracker" TARGET_NAME="zlib-ng" CONFIG_NAME="release">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.zlib-ng" />
+      <item itemvalue="CMake Application.clean-all" />
+      <item itemvalue="CMake Application.uninstall" />
+      <item itemvalue="CMake Application.sourcepp_kvpp" />
+      <item itemvalue="CMake Application.sourcepp_compression" />
+      <item itemvalue="CMake Application.sourcepp_crypto" />
+      <item itemvalue="CMake Application.spdlog" />
+      <item itemvalue="CMake Application.yaml-cpp" />
+      <item itemvalue="CMake Application.yaml-cpp-parse" />
+      <item itemvalue="CMake Application.yaml-cpp-read" />
+      <item itemvalue="CMake Application.yaml-cpp-sandbox" />
+      <item itemvalue="CMake Application.bufferstream" />
+      <item itemvalue="CMake Application.bzip2" />
+      <item itemvalue="CMake Application.cryptopp" />
+      <item itemvalue="CMake Application.libgnu" />
+      <item itemvalue="CMake Application.liblzma" />
+      <item itemvalue="CMake Application.libzstd_shared" />
+      <item itemvalue="CMake Application.libzstd_static" />
+      <item itemvalue="CMake Application.lzmadec" />
+      <item itemvalue="CMake Application.lzmainfo" />
+      <item itemvalue="CMake Application.minizip-ng" />
+      <item itemvalue="CMake Application.sourcepp" />
+      <item itemvalue="CMake Application.sourcepp_half" />
+      <item itemvalue="CMake Application.sourcepp_parser" />
+      <item itemvalue="CMake Application.steam-achievement-tracker" />
+      <item itemvalue="CMake Application.xz" />
+      <item itemvalue="CMake Application.xzdec" />
+      <item itemvalue="CMake Application.steam_achievement_tracker" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="803f76ff-10f6-4261-b09d-181d4327f9f5" name="Changes" comment="" />
+      <created>1763158297033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763158297033</updated>
+      <workItem from="1763158298205" duration="654000" />
+      <workItem from="1764744561237" duration="4558000" />
+      <workItem from="1764749171798" duration="1000" />
+      <workItem from="1764749212081" duration="12138000" />
+      <workItem from="1764805593747" duration="788000" />
+      <workItem from="1764808135471" duration="9505000" />
+      <workItem from="1764818018944" duration="13000" />
+      <workItem from="1764847179081" duration="218000" />
+      <workItem from="1764847409453" duration="211000" />
+      <workItem from="1764847633726" duration="25035000" />
+      <workItem from="1764874512245" duration="23000" />
+      <workItem from="1765022216017" duration="343000" />
+      <workItem from="1765024110427" duration="2684000" />
+      <workItem from="1765031249424" duration="6056000" />
+      <workItem from="1765043516963" duration="30352000" />
+      <workItem from="1765089736962" duration="3553000" />
+      <workItem from="1765098757264" duration="22851000" />
+      <workItem from="1765121848189" duration="10048000" />
+      <workItem from="1765178963202" duration="13770000" />
+      <workItem from="1765192860783" duration="23070000" />
+      <workItem from="1765216124336" duration="31810000" />
+      <workItem from="1765253302438" duration="3459000" />
+      <workItem from="1765257793341" duration="964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/build/release/_deps/lntc-cpp-src" />
+      <path value="$PROJECT_DIR$/build/release/_deps/lntc_cpp-src" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
