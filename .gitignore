@@ -1,4 +1,3 @@
 build/
 ext/
-# ignore everything in .idea
 .idea/*
