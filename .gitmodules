@@ -1,0 +1,15 @@
+[submodule "ext/lntc_cpp"]
+	path = ext/lntc_cpp
+	url = https://github.com/LunaticWasTaken/lntc_cpp
+[submodule "ext/json"]
+	path = ext/json
+	url = https://github.com/nlohmann/json
+[submodule "ext/sourcepp"]
+	path = ext/sourcepp
+	url = https://github.com/craftablescience/sourcepp
+[submodule "ext/spdlog"]
+	path = ext/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "ext/yaml-cpp"]
+	path = ext/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp
