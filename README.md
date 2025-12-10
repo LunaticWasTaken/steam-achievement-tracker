@@ -193,6 +193,17 @@ For any questions regarding this spec, just ask away!
       it's not hard: https://github.com/qt/qtbase/tree/6.10.1.
     - My License also clearly states that i don't impact your freedom in any way. I literally cannot give you more
       freedom than i already do.
+- Help, i get double achievements
+    - You likely still get the achievement notifications from steam. If you don't want them as well, you need to disable
+      steam banner notifications entirely, because steam is dumb. Go to
+      ``Steam > Settings > Notifications > Show Toast Notifications`` and set it to ``Never``.
+      ``When not in-game`` from what i know does not seem to work.
+- I don't get any Notifications at all
+    - Check the log for any warnings or errors.
+    - If you used Steam Achievement Manager to lock achievements again, you need to restart Steam afterward, otherwise
+      it still keeps them cached as unlocked.
+- I get an error "failed to find Qt6Something.dll" when starting the app
+    - Run the ``setup_dependencies.bat`` script before starting the program.
 
 ### LICENSE
 
