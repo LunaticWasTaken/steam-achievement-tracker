@@ -53,7 +53,7 @@ private:
     const std::string title_anchor = lntc_cpp::str::to_lower_cpy(ThemeManager::get_singleton()->get<std::string>("title/anchor", "topleft"));
     const int32_t title_offset_x = ThemeManager::get_singleton()->get<int32_t>("title/offset_x", 68);
     const int32_t title_offset_y = ThemeManager::get_singleton()->get<int32_t>("title/offset_y", 12);
-    const std::string title_font = ThemeManager::get_singleton()->get<std::string>("title/font", "Arial");
+    const std::string title_font = expand_vars(ThemeManager::get_singleton()->get<std::string>("title/font", "Arial"));
     const bool title_font_bold = ThemeManager::get_singleton()->get<bool>("title/font_bold", true);
     const bool title_font_italic = ThemeManager::get_singleton()->get<bool>("title/font_italic", false);
     const uint32_t title_font_size = ThemeManager::get_singleton()->get<int32_t>("title/font_size", 10);
@@ -64,7 +64,7 @@ private:
     const std::string description_anchor = lntc_cpp::str::to_lower_cpy(ThemeManager::get_singleton()->get<std::string>("description/anchor", "topleft"));
     const int32_t description_offset_x = ThemeManager::get_singleton()->get<int32_t>("description/offset_x", 68);
     const int32_t description_offset_y = ThemeManager::get_singleton()->get<int32_t>("description/offset_y", 28);
-    const std::string description_font = ThemeManager::get_singleton()->get<std::string>("description/font", "Arial");
+    const std::string description_font = expand_vars(ThemeManager::get_singleton()->get<std::string>("description/font", "Arial"));
     const bool description_font_bold = ThemeManager::get_singleton()->get<bool>("description/font_bold", false);
     const bool description_font_italic = ThemeManager::get_singleton()->get<bool>("description/font_italic", false);
     const uint32_t description_font_size = ThemeManager::get_singleton()->get<int32_t>("description/font_size", 10);
