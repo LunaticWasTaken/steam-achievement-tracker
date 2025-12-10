@@ -21,13 +21,13 @@ Since this is still wip, there aren't any releases yet, but you can build it you
     - Powershell:
       ```powershell
       $build_dir = "${env:userprofile}\Downloads\steam-achievement-tracker" 
-      git clone "https://github.com/LunaticWasTaken/steam-achievement-tracker" "${build_dir}"; cd "${build_dir}"
+      git clone --recursive "https://github.com/LunaticWasTaken/steam-achievement-tracker" "${build_dir}"; cd "${build_dir}"
       .\build.bat
       ```
     - Command Prompt:
       ```cmd
       set "build_dir=%userprofile%\Downloads\steam-achievement-tracker"
-      git clone "https://github.com/LunaticWasTaken/steam-achievement-tracker" "%build_dir%"; cd "%build_dir%"
+      git clone --recursive "https://github.com/LunaticWasTaken/steam-achievement-tracker" "%build_dir%" 66 cd "%build_dir%"
       .\build.bat
       ```
 - Afterward, you can find a release at ``<build_dir>\build\release\release-win.zip``
